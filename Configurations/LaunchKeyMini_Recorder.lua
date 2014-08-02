@@ -19,7 +19,7 @@ duplex_configurations:insert {
     device_port_in = "Launchkey Mini (LK Mini InControl)",
     device_port_out = "Launchkey Mini (LK Mini InControl)",
     control_map = "Controllers/LaunchKey-Mini/Controlmaps/LaunchKey-Mini.xml",
-    thumbnail = "Controllers/LaunchKey-Mini/R-control.bmp",
+    thumbnail = "Controllers/LaunchKey-Mini/LKMini.bmp",
     protocol = DEVICE_PROTOCOL.MIDI
   },
 
